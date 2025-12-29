@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Legal Search System</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<h1>LHC Legal Document Search System</h1>
+<p class="author">Developed by Muhammad Ramzan | PUCIT | M.Phil AI</p>
+
+<form method="post">
+    <input type="text" name="query" placeholder="Enter legal query..." required>
+    <button type="submit">Search</button>
+</form>
+{% if message %}
+<p style="color: orange; font-weight: bold;">{{ message }}</p>
+{% endif %}
+
+
+{% if results %}
+<table>
+    <tr>
+        <th>Rank</th>
+        <th>Document</th>
+        <th>Score</th>
+        <th>Actions</th>
+    </tr>
+
+    {% for doc, score in results %}
+    <tr>
+        <td>{{ loop.index }}</td>
+        <td>{{ doc }}</td>
+        <td>{{ "%.3f"|format(score) }}</td>
+        <td>
+            <a href="/open/{{ doc }}" target="_blank">Open</a> |
+            <a href="/download/{{ doc }}">Download</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+{% endif %}
+
+</body>
+</html>

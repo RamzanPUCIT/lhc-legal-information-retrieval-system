@@ -1,0 +1,435 @@
+        
+  Form No.HCJD/C-121 
+ORDER SHEET 
+LAHORE HIGH COURT, LAHORE. 
+JUDICIAL DEPARTMENT 
+ 
+ITR No.123986 of 2017 
+ 
+The Commissioner Inland 
+Revenue. RTO, Faisalabad 
+Vs.  
+Mr. Zohaib Ali Manzoor 
+Sr. No.      
+of order/ 
+proceeding 
+Date of order/ 
+proceeding 
+Order with signature of Judge, and that of parties or 
+counsel, where necessary. 
+ 
+08.09.2025. Mr. Liaquat Ali Ch., Advocate for applicant 
+department. 
+ 
+ 
+   
+This Reference Application, filed under 
+Section 133 of the Income Tax Ordinance, 2001 
+(hereinafter “Ordinance, 2001”), arises out of the 
+impugned order dated 30.08.2017 passed by the learned 
+Appellate Tribunal Inland Revenue, Lahore Bench, 
+Lahore (hereinafter “the Tribunal”). The following 
+questions of law have been proposed for our opinion. 
+i. 
+Whether, on the facts and in the 
+circumstances of the case, the learned 
+Tribunal was justified in holding that 
+credit entries appearing in the taxpayer‟s 
+bank account did not constitute “definite 
+information” within the meaning of 
+Section 122(5) of the Ordinance? 
+ii. 
+Whether, on the facts and in the 
+circumstances of the case, unexplained 
+credit entries in the bank account of the 
+taxpayer fall within the purview of 
+“definite 
+information” 
+under 
+Section 
+122(5) of the Ordinance, particularly in 
+light of the judgment relied upon by the 
+Tribunal? 
+2.   
+Briefly stated, the respondent taxpayer, acting 
+as a commission agent of M/s Shell Pakistan Limited, 
+filed a return for the Tax Year 2010 under Section 
+115(4) of the Ordinance, which was deemed to be an 
+assessment under Section 120. The Department, upon 
+                                          ITR No.123986 of 2017                                          2 
+ 
+scrutiny of the taxpayer‟s bank statements, identified 
+credit entries which allegedly did not correspond with 
+the declared income. Consequently, proceedings under 
+Section 122(1) read with 122(5) of the Ordinance, 2001 
+were initiated, culminating in the amendment of the 
+assessment order based on an estimation of income 
+derived from bank credit entries. 
+3.   
+The Assessing Officer treated the entire 
+amount of the credit entries as sales, applied a gross 
+profit rate, and deducted estimated expenses therefrom. 
+The taxpayer‟s appeal before the Commissioner 
+(Appeals) was dismissed. However, on further appeal, 
+the learned Tribunal allowed the taxpayer‟s plea and 
+annulled the reassessment order. The department, being 
+aggrieved, filed this Reference Application. 
+4.   
+We have heard learned counsel for the 
+applicant-department and perused the record with their 
+assistance. 
+5.   
+It is settled law that the jurisdiction under 
+Section 122(5) of the Ordinance, 2001 can only be 
+invoked where “definite information” comes into the 
+notice of the Commissioner or the Officer Inland 
+Revenue (hereinafter “OIR”). The term “definite 
+information” has received authoritative interpretation 
+from the Hon‟ble Supreme Court of Pakistan. 
+6.   
+In the present case, the Officer Inland 
+Revenue initiated reassessment proceedings solely on 
+the basis of credit entries in the taxpayer‟s bank 
+account, without establishing any direct nexus between 
+those entries and taxable income. No audit or 
+independent inquiry was conducted to convert those 
+entries into actionable “definite information.” 
+                                          ITR No.123986 of 2017                                          3 
+ 
+7.   
+At the outset, it becomes necessary to 
+examine whether the learned OIR was indeed in 
+possession of “definite information”. The expression 
+“definite information” has been the subject of judicial 
+interpretation by the Hon‟ble Apex Court in a series of 
+pronouncements, notably in a recent judgment 
+pronounced by the Hon‟ble Supreme Court of Pakistan 
+in case titled Commissioner Inland Revenue vs. M/s 
+Khudad Heights (2025 SCMR 716), wherein the Apex 
+Court reaffirmed that credit entries in bank statements, 
+standing alone, do not necessarily reflect taxable 
+income. In the regime of the 2001 Ordinance, „definite 
+information‟ was either left to audit analysis, enabling 
+the Commissioner to adjudge whether: (i) any income 
+chargeable to tax has escaped assessment; or (ii) total 
+income has been under-assessed, or assessed at too low 
+a rate, or subjected to excessive relief or refund; or (iii) 
+any amount under a head of income has been 
+misclassified. Thus, a statement of account alone 
+cannot be a basis to form any of the three routes 
+provided in the later part of Section 122(5). 
+This legal position was eloquently summarized by the 
+Hon‟ble Supreme Court in the following passage of the 
+above referred judgment:- 
+“7. In the instant case the re-assessment 
+proceedings triggered on the basis of bank 
+statement of the taxpayer. All transactions therein 
+not necessarily demonstrate the income of the 
+taxpayer/assessee hence unless it is established 
+that these statements and/or entries therein 
+disclose information of income which is „definite‟, 
+the subject instrument cannot be applied as being 
+one having „definite information‟. Neither the 
+Commissioner nor the Tribunal and the learned 
+High Court were of the view that all credit entries 
+in the statement of account disclosed the income 
+of the assessee and hence it does not constitute 
+„definite information‟. Indeed, the Tribunal is the 
+last fact finding forum which question could 
+                                          ITR No.123986 of 2017                                          4 
+ 
+neither be raised in the reference jurisdiction nor 
+before this Court.” 
+8.   
+In another landmark judgment titled “Messrs 
+EFU General Insurance Co. Limited vs. The Federation 
+of Pakistan and others” (PLD 1997 SC 700), the 
+Hon‟ble Supreme Court of Pakistan took cognizance of 
+the matter and rendered a seminal judgment elucidating 
+the 
+relevant 
+principles 
+of 
+law 
+that 
+“definite 
+information” must be understood in its ordinary and 
+plain meaning, information that is conclusive, precise, 
+and unambiguous, and mere change of opinion or 
+reappraisal of previously available material does not 
+constitute 
+“definite 
+information.” 
+The 
+relevant 
+paragraph of the judgment is as under: - 
+“10.   Another question debated during the 
+hearing of these appeals was whether binding 
+judgment of the Courts come within the term 
+„better information” employed in section 65(2) of 
+the Income Tax Ordinance. As has been observed, 
+section 65(1) gives powers to the Income Tax 
+Officer to reopen assessments in cases of under 
+assessment or escaped assessment etc., but 
+subsection (2) of the section places an embargo 
+upon the Income Tax Officer by' providing that no 
+proceedings for reopening the assessment shall be 
+initiated unless "definite information" has come 
+into the possession of the Income Tax Officer.  
+In a later judgment of this Court in the case of 
+Central Insurance Company v. C.B.R. 1993 
+SCRM 1232, decided on 04-04-1993, this Court, 
+inter alia, dealt in great detail with the expression 
+“definite information” in section 65(2) of the 
+Ordinance. It was observed that the words 
+“definite information” are the keywords for the 
+purposes of justifying action under subsection (1) 
+and, as the said words had not been defined in the 
+Ordinance, they will carry their literary meanings. 
+It was observed that every information cannot be 
+treated as the basis for reopening of the 
+assessment but the information should be of the 
+nature 
+which 
+should 
+qualify 
+as 
+"definite 
+information" and that the expression "definite 
+information" could not be given a universal 
+meaning but it will have to be construed in each 
+                                          ITR No.123986 of 2017                                          5 
+ 
+case. It was further observed that where an assesse 
+discloses all the material facts without any 
+concealment and the assessment had been 
+consciously completed by the Income Tax Officer, 
+in such a, case, in the absence of the discovery of 
+any new facts which can be treated as "definite 
+information", there cannot be any scope for 
+reopening of the assessment under section 65. It 
+was further observed that any change of opinion 
+on the basis of the same material by the Income 
+Tax Officer will not warrant pressing into service 
+the said provision. It was observed that a Circular 
+from the Board of Revenue interpreting any 
+provision of a law was not a “definite 
+information” for reopening of assessment by an 
+Income Tax Officer. It was then observed that 
+expression “definite information” will include 
+factual information as well as information about 
+the existence of a binding judgment of a 
+competent Court of law/forum for the purposes of 
+section 65 of the Ordinance, but any interpretation 
+of a provision of law by a functionary which has 
+not been entrusted with the function to interpret 
+such provision judicially cannot be treated as a 
+“definite information”. 
+An interpretation by a functionary of the Revenue 
+Department or a change in the interpretation of 
+any provision by any functionary of the 
+department including the Central Board of 
+Revenue is not "definite information" for being 
+made a lawful basis for reopening an assessment 
+already made.”  
+9.  
+Furthermore, the Hon‟ble Supreme Court, in 
+its authoritative pronouncement reported as CHIEF 
+COMMISSIONER INLAND REVENUE, RTO, 
+PESHAWAR Versus Messrs SABRINA TENT 
+SERVICES  (2019 PTD 2001), has categorically lays 
+down the settled proposition of law on the subject, 
+which squarely governs the issue under consideration 
+and leaves no room for a contrary interpretation. It has 
+been held as under: 
+“4.  ……..„Definite information‟ does not mean 
+a reanalysis of existing information or an 
+analysis of further information that was 
+previously accessible but had not been taken into 
+                                          ITR No.123986 of 2017                                          6 
+ 
+account. Reliance in this respect is placed 
+Central Insurance Co. vs. Central Board of 
+Revenue 
+(1993 
+SCMR 
+1232), 
+Inspecting 
+Assistant Commissioner v. Pakistan herald Ltd. 
+(1997 SCMR 1256) and Income-tax Officer v. 
+Chappal Builders (1993 PTD 1108).” 
+10. 
+The approach adopted by the OIR treating 
+gross bank credit entries as business receipts, 
+estimating sales, applying a gross profit rate, and 
+deducting assumed expenses is contrary to the settled 
+law. Particularly, in the case of a commission agent, 
+such as the respondent, income is earned through 
+receiving commission and not from the value of goods 
+sold on behalf of the principal. The estimation method 
+adopted by the Assessing Officer was not only 
+improper but has also held to be illegal in a series of 
+precedents, including COMMISSIONER INLAND 
+REVENUE, 
+ZONE-II, 
+REGIONAL 
+TAX 
+OFFICE, (RTO) LAHORE Vs MIAN LIAQAT 
+ALI 
+PROPRIETOR, 
+LIAQAT 
+HOSPITAL, 
+HOUSE NO.6, STREET NO.6, LAL PUL, PANJ 
+PIR ROAD, MUGHALPURA, LAHORE (2023 
+SCMR 534), wherein following dictum was laid 
+down:- 
+“11. Having considered the point, we are of the 
+view that there are at least two reasons why the 
+Department's view cannot prevail and the one taken 
+by the Tribunal is to be preferred. Firstly, on the 
+Department's reading of the provision, sub-clause 
+(i) of clause (d) creates two categories: production 
+or sales on the one hand, and "any amount 
+chargeable to tax" on the other. In respect of the 
+first category it is the "gross receipts" or "gross 
+income" that can, in its entirety, be taxed. In 
+respect of the other, it is only "income" properly so 
+called that can be made liable. Why there should be 
+such a distinction is not readily apparent. It is true 
+that in respect of the interpretation of fiscal statutes 
+the State is given greater latitude in respect of 
+choosing what is to be taxed (or exempted) and if 
+                                          ITR No.123986 of 2017                                          7 
+ 
+so, in what manner and to what extent. However, 
+this approach is but a rule of interpretation (and one 
+among several) that aids the Court in coming to the 
+correct conclusion with regard to the provision 
+under consideration. It is not an absolute rule, to be 
+applied rigidly and strictly to the exclusion of all 
+else. Production and sales are two types of activity 
+that produce income. However, as is well 
+established, income is a very broad and inclusive 
+concept. In the felicitous words of Kanga and 
+Palkhiwala: "The categories of income are never 
+closed" (see Fawad Ahmad Mukhar and others v. 
+Commissioner Inland Revenue and another 2022 
+SCMR 426, para 9 and the authorities there cited). 
+To pick out only two types of income (production 
+and sales) and treat those "gross receipts" as liable 
+to tax, out of the vast sea that otherwise constitutes 
+"income" 
+properly 
+so-called 
+("any 
+amount 
+chargeable to tax") is in our view not the correct 
+approach. No discernable yardstick or standard 
+appears in the provision as would justify such 
+differentiation and radical departure from settled 
+principles of income tax law. Like should (unless 
+otherwise lawfully dictated) be treated alike. If 
+"any amount" can be brought within the scope of 
+sub-clause (i) of clause (d) only if, and to the 
+extent, that it is "chargeable to tax" (i.e., constitutes 
+"income" properly so called), then production and 
+sales must be given the same treatment. Thus, it is 
+only production or sales chargeable to tax that can 
+be brought within the ambit of clause (d). The 
+categorization made by the Department is artificial 
+and cannot be accepted. The approach taken by the 
+learned Tribunal was correct.” 
+11.  
+It is a matter of record that all transactions 
+conducted by the taxpayer were duly routed through 
+recognized 
+banking 
+channels, 
+thereby 
+ensuring 
+transparency and traceability in the financial dealings. 
+Furthermore, the commission income earned was fully 
+declared, corroborated by valid sales tax invoices duly 
+issued by M/s Shell Pakistan Limited, which clearly 
+established the taxpayer‟s role as a commission agent 
+and explained the precise nature and source of the 
+income. These factual assertions were not only 
+substantiated by documentary evidence but were also 
+duly appreciated and analyzed by the learned Appellate 
+                                          ITR No.123986 of 2017                                          8 
+ 
+Tribunal. The findings so recorded by the tribunal are 
+based on sound appreciation of evidence, are supported 
+by the record, and do not suffer from any legal 
+infirmity, perversity, or misreading/non-reading of 
+material evidence. In the absence of any jurisdictional 
+error or misapplication of law, no exception can be 
+taken to the well reasoned conclusions. 
+12. 
+The Appellate Tribunal, being the final fact 
+finding Authority under the statutory scheme, has 
+rendered its findings after due appreciation of the 
+evidence on record, in consonance with the applicable 
+statutory provisions and in conformity with binding 
+precedents of the Superior Courts. The conclusions so 
+drawn are neither arbitrary nor capricious, but are 
+grounded in a reasoned and judicious analysis of the 
+material 
+available. 
+No 
+jurisdictional 
+error, 
+misapplication of law, or perversity in the appreciation 
+of evidence has been demonstrated that would warrant 
+interference by this Court in exercise of its jurisdiction 
+under Section 133 of the Ordinance, 2001. Mere 
+disagreement with the Tribunal‟s findings, absent any 
+substantial question of law arising therefrom, does not 
+justify invocation of this Court‟s jurisdiction. 
+13. 
+In light of the foregoing, we hold that mere 
+credit entries in the bank statement of the taxpayer do 
+not, by themselves, constitute “definite information” 
+within the meaning of the law. Such entries require 
+further verification and correlation with the taxable 
+income of the assesse. The order passed by the Tribunal 
+aligns with the well settled principles of law and does 
+not disclose any legal infirmity warranting interference, 
+which is hereby upheld. Consequently, the instant 
+Reference Application is decided against the applicant-
+                                          ITR No.123986 of 2017                                          9 
+ 
+department and the questions proposed are answered in 
+NEGATIVE. 
+14. 
+Office shall send a copy of this order under 
+seal of the Court to learned Appellate Tribunal as 
+required under the law, as required under Section 
+133(8) of the Ordinance, 2001. 
+ 
+ 
+  
+(ABID AZIZ SHEIKH)       (MALIK JAVID IQBAL WAINS)  
+              
+      JUDGE  
+ 
+               JUDGE  
+ 
+  
+ 
+Approved For Reporting 
+ 
+ 
+ 
+ 
+  
+(ABID AZIZ SHEIKH)       (MALIK JAVID IQBAL WAINS)  
+              
+     JUDGE  
+ 
+               JUDGE  
+ 
+ 
+ 
+ 
+SHARIF/USMAN* 

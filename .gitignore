@@ -1,0 +1,10 @@
+# Ignore datasets
+lhc_pdf/
+lhc_text/
+lhc_clean/
+
+# Ignore model / data files
+*.pkl
+
+# Ignore cache
+__pycache__/

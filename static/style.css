@@ -1,0 +1,38 @@
+body {
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    text-align: center;
+}
+
+input {
+    width: 300px;
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #22c55e;
+    border: none;
+    font-weight: bold;
+}
+
+table {
+    margin: 30px auto;
+    width: 80%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #334155;
+    padding: 10px;
+}
+
+a {
+    color: #38bdf8;
+    text-decoration: none;
+}
+
+.author {
+    color: #94a3b8;
+}

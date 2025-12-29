@@ -1,0 +1,833 @@
+Stereo. HCJDA 38. 
+Judgment Sheet 
+IN THE LAHORE HIGH COURT  
+RAWALPINDI BENCH, RAWALPINDI 
+JUDICIAL DEPARTMENT 
+…. 
+ 
+W.P. No.983 of 2025 
+ 
+United Bank Limited 
+ 
+ Versus 
+ 
+President of the Islamic Republic of Pakistan, etc.   
+ 
+JUDGMENT 
+ 
+Dates of hearing: 
+28.03.2025, 07.04.2025 and 21.04.2025. 
+Petitioner by: 
+M/s M. Wisal Khan, Ahmad Hassan and 
+Tanzeela Nazar, Advocates in this and 
+connected 
+petitions 
+No.3875/2024, 
+3876/2024, 910/2024, 911/2024 and 
+983/2024.  
+ 
+M/s Syed Hasnain Ibrahim and Saleem 
+Iqbal, Advocates for petitioners in 
+connected 
+petitions 
+No.2358/2021, 
+685/2022, 
+686/2022, 
+1484/2022, 
+1485/2022, 1802/2020 and 1803/2020.  
+ 
+Barrister 
+M. 
+Shayan 
+Homayon, 
+Advocate for HBL. 
+ 
+Barrister 
+Babar 
+Shahzad 
+Imran, 
+Advocate for petitioners Allied Bank 
+Limited in connected petitions. 
+  
+Mr. Sagheer Ahmed, Advocate for 
+petitioner 
+in 
+connected 
+W.P. 
+No.1478/2022. 
+ 
+Mr. Barkat Hussain, Advocate for 
+petitioner 
+in 
+connected 
+W.P. 
+No.518/2025.   
+Respondents by: 
+Mr. 
+Haseeb 
+Shakoor 
+Paracha, 
+Additional Attorney General. 
+ 
+Ms. Hifza Bukhari, Deputy Attorney 
+General. 
+W.P. No.983/2025 
+ 
+2
+ 
+Mr. Qasim Abbas, Assistant Attorney 
+General. 
+ 
+Barrister 
+Zain 
+Mansoor, 
+Assistant 
+Attorney General.  
+Syed Zain-ul-Abideen, Advocate for 
+respondent No.5 in connected W.P. 
+No.911/2025. 
+ 
+M/s Barrister Raja Ammad Jillani, 
+Muhammad 
+Adeel 
+Arshad, 
+Abdul 
+Hameed 
+Qureshi 
+and 
+Raja 
+Abid 
+Mehmood, Advocates for respondent in 
+W.P. No.1485/2022. 
+  
+Ch. Attique-ur-Rasool, Advocate for 
+respondent No.1 in W.P. No.1018 and 
+1019 of 2025. 
+  
+Hafiz 
+Muhammad 
+Kalim 
+Ullah, 
+Advocate for 
+respondent No.3 in 
+connected W.P. No.910/2025.  
+ 
+Ziafat Kayani, Respondent in W.P. 
+No.1438/2019, in person.  
+ 
+Changraiz Khan in person.  
+ 
+Sheikh Iftikhar Ali, respondent in 
+person in W.P. No.938/2025.    
+ 
+ASIM HAFEEZ, J.   
+These set of constitutional petitions, details 
+whereof are provided in the attached Annex-A, are decided through 
+consolidated judgment, all of which, largely, touched upon the issues 
+relating to the rights, duties and obligations accompanying bank-
+customer relationship – which no doubt is decades old issue, still 
+unsettled and recurring frequently with new manifestations; this time 
+the context is unauthorized Electronic Fund Transfer (EFTs) and 
+scope of alleged obligation(s) of the bank(s) to reimburse / 
+compensate the victim(s), i.e., the customer.  
+Litigation’s trajectory: 
+W.P. No.983/2025 
+ 
+3
+2. 
+Present litigation started when private respondents [the 
+customer(s)] invoked jurisdiction of Banking Mohtasib (‘Mohtasib’), 
+under the provisions of Banking Companies Ordinance 1962 
+(Ordinance, 1962), by submitting written complaints, on oath, against 
+petitioners, i.e., Bank(s) - [singly referred as the bank and collectively 
+as banks]. Grievances, in brief, were that banks had acted in violation 
+of their contractual obligations, omitted duty of exercising reasonable 
+care and skills and allowed unauthorized EFTs from the accounts of 
+the customer(s). By and large, the customer(s) asserted that they were 
+deceptively and fraudulently induced by the callers, who called them 
+on their registered mobile(s), and represented / impersonated as bank 
+or government officials, where-after customer(s) shared their personal 
+information, identity, access code(s), one-time-passcode(s) (OTPs) on 
+the assumption that information was required for the purposes of 
+periodical check(s). And lately they discovered that amounts were 
+debited / transferred – [this kind of fraud is generically identified as 
+‘authorized push payment’ (‘APP’), whereby alleged authorization / 
+instructions of the customer(s) were procured, deceptively or 
+fraudulently, and funds were withdrawn / transferred to some 
+beneficiary’s account. This specie of fraud is distinguished from ‘pull 
+payment fraud’, whereby payments are extracted from customer’s 
+bank account or debited by debit / credit card(s) without customer’s 
+knowledge or approval – these classes of frauds are explained in the 
+case of Philipp v Barclays Bank UK PLC [2023 UKSC 25].  
+W.P. No.983/2025 
+ 
+4
+3. 
+Banks denied their obligations to reimburse the amounts on the 
+premise that acts of the customer(s) were in breach of the terms of 
+account-opening documents and on-line banking facility, whereby the 
+customer(s) were not supposed to share confidential information, and 
+in case of non-adherence to agreed conditions no compensation is 
+permissible. Banks claimed that while doing on-line banking, the 
+customer(s) had to follow the instructions conveyed / announced and 
+EFTs are regulated and controlled through autonomous electronic 
+payment system, which is not accessible by the officials of banks and 
+data therein is otherwise encrypted, subject to deencryption upon 
+following protocols, exclusively within the knowledge of the 
+customer(s). It is claimed that two-factor authentication process was 
+in place, wherein before payment instructions are executed a special 
+code, OTP is sent at the registered mobile of the customer(s), and 
+unless OTP is fed in flashed window, no transaction could take effect.  
+  
+Customer’s position is that since banks owe a duty of care and 
+diligence, therefore, banks should inquire into payment instructions 
+before funds are released; and if banks had acted diligently all 
+attempts to withdraw funds illicitly could be foiled. Mohtasib, heard 
+complaints, solicited replies and documents, whereafter complaints 
+were accepted and payment of compensation was recommended – 
+equal to amount unauthorizedly withdrawn / transferred / debited. 
+Mohtasib held banks liable for violating banking laws; responsible for 
+non-co-operation with the customer(s) and attributed failure to 
+undertake firefighting measures, promptly to protect monetary 
+W.P. No.983/2025 
+ 
+5
+interests of the customer(s). Mohtasib held that banks failed to meet 
+the test of burden of proof, envisaged in section 41 of the Payment 
+Systems and Electronic Fund Transfers Act 2007 (Act, 2007), hence, 
+declared that banks were in breach of their duties. Decisions of the 
+Mohtasib were affirmed by the Office of President of Pakistan by 
+dismissing representations preferred under section 14 of the Federal 
+Ombudsmen Institutional Reforms Act 2013 (‘Act 2013’). All cases 
+involve allegation of unauthorized EFTs. Hence, these petitions. 
+Controversy-in-issue:  
+4. 
+Banks  invoked constitutional jurisdiction seeking ‘writ in the 
+nature of certiorari’. Scope of adjudication, under judicial review 
+jurisdiction, is whether subject-matter act(s), done or proceedings 
+taken, are within the ambit of lawful exercise of authority, by the 
+Mohtasib.  
+Is exercise of jurisdiction lawful and within the statutory 
+limits prescribed under the provisions of the Act 2013 
+and Ordinance 1962?  
+5. 
+Primary objection against the orders is that Mohtasib had acted 
+in excess of jurisdiction, conferred in terms of sections 82A to 82G of 
+the Ordinance, 1962. Banks claim that scope and extent of the 
+jurisdiction of the Mohtasib has had to be construed narrowly and 
+conservatively, since it was not a Court but a tribunal, which had no 
+authority to investigate and determine allegations of fraud, involving 
+third-party, i.e. an anonymous caller or impersonator. Conversely, the 
+customer(s) advocated that scope of jurisdiction of the Mohtasib need 
+W.P. No.983/2025 
+ 
+6
+to be interpreted liberally, in wide / broad sense, especially when 
+relevant statute empowers the Mohtasib to enquire into complaints 
+against banking malpractices, violations of laws, allegations of 
+maladministration, fraudulent acts in relation to transfer of funds and 
+fraudulent 
+or 
+unauthorized 
+withdrawals 
+or 
+debit 
+entries. 
+Reconciliation of competing claims qua jurisdictional question is a 
+determinable issue, and such question is within the scope of Article 
+199 (a) (ii) of the Constitution of Islamic Republic of Pakistan 1973. 
+Submissions: 
+6. 
+Learned counsel for banks contend that Mohtasib misconstrued 
+extent of its jurisdiction and proceeded to decide factual / 
+controversial disputes, bordering fraud and deception. Adds that 
+Mohtasib misinterpreted section 41 of the Act, 2007, whereby, it 
+erroneously placed obligation of burden of proof on banks, without 
+appreciating that transactions were carried out in line with payment 
+instructions, and banks cannot be penalized in lieu of facilitation 
+extended by the customers, by sharing confidential information. 
+Hence, no instance of unauthorized EFTs occurred. Add that 
+Mohtasib failed to consider the involvement of the customer(s), who 
+had violated account-opening terms. Adds that cases are fit for trail 
+before court of general jurisdiction. Reference is made to section 50 of 
+the Act, 2007. It is argued that remedies in cases of fraud and cheating 
+are available under the provisions of Special Courts under Offences in 
+respect of Banks (Special Courts) Ordinance, 1984. And to support 
+W.P. No.983/2025 
+ 
+7
+submissions, following decisions are cited, Ghulam Mustafa V. 
+Presiding Officer Special Court (Offences against Banks) Rawalpindi 
+and others (2003 MLD 841), Hamza Raza V. The State, etc. (2014 
+CLD 1943), Naeema A. Sattar V. Federation of Pakistan, etc. (PLD 
+2016 Sindh 311), Syed Mushahid Shah and others V. Federal 
+Investment agency and others (2017 SCMR 1218), Mushtaq Ahmed V. 
+Judge Banking Offences Court No.02, Lahore and others (2019 CLD 
+318), and Hamda Raza V. The State and others (2014 CLD 1493). 
+And with regard to the jurisdiction of Mohtasib, reference is made to 
+cases of United Bank Limited V. Federation of Pakistan and others 
+(2018 CLD 587) and Habib Bank Limited V. Federation of Pakistan 
+and others (2022 CLD 769). 
+7. 
+Learned counsel for the customer(s) contend that their clients 
+had promptly approached respective banks and informed about 
+fraudulent withdrawals / transfers, but no corrective measures were 
+taken to stop transfers or retrieval of funds. Add that the customer(s) 
+were constrained to approach Mohtasib to complain about 
+conspicuous failure of banks to perform contractual obligations and 
+discharge statutory duties. Mohtasib found banks liable for 
+maladministration and compensation was accordingly recommended. 
+It is argued that infatuation of banks with enforcement of the Act, 
+2007 is misconceived, because there in nothing contradictory between 
+Ordinance 1962 and Act, 2007, therefore, the overriding clause in 
+latter statute, which is section 67, is not attracted. Submit that 
+Mohtasib can enquire into complaints of banking malpractices, 
+W.P. No.983/2025 
+ 
+8
+violations of laws, acts constituting maladministration, fraud in 
+relation to transfer of funds and fraudulent or unauthorized 
+withdrawals or debit entries in the accounts, which is within the 
+domain of its jurisdiction. Some of the customers, who are present, 
+argue that on-line banking services were activated without 
+authorization and likewise daily withdrawal amount limit was 
+enhanced, without approval. It is emphasized that the customer(s) 
+were obligated to share details when phone calls were made from 
+Bank’s customer-service numbers and callers claim to be the officials 
+of banks. Reference is made to the cases of Habib Bank Limited V. 
+Muhammad Ayub Mengal and others (2022 CLD 1448) and MCB 
+Bank Limited through Authorized Attorney V. Federation of Pakistan 
+through Director (Legal) President’s Secretariat Aiwan-e-Sadar, 
+Islamabad and 2 others (2023 CLD 333). 
+8. 
+Learned Law Officer gave an overview of the Act, 2007, 
+remedies provided therein; highlighted fine distinction between the 
+scope of Ordinance 1962 and Act 2007; and explained rational of 
+promulgation of latter statute, primarily to address issues arising in the 
+context of unauthorized EFTs and problems encountered in wake of 
+on-line banking. Adds that banks are required to adhere to the 
+payment system structured in terms of the Act, 2007 and are obligated 
+to ensure that funds be withdrawn / transferred under proper 
+instructions. Adds that institution of Mohtasib is created to provide 
+cost-effective, quick and effective remedy to a common man without 
+procedural intricacies and formalities of the courts. Submits that case 
+W.P. No.983/2025 
+ 
+9
+of Habib Bank Limited through Litigation Officer V. Federation of 
+Pakistan through President Secretariat Islamabad and 2 others (2018 
+CLD 1152) is distinguishable on the premise that adjudication relates 
+to applicability of circular, introducing two-factor authentication, 
+which system is in place and is effectively working.  
+Analysis: 
+9. 
+Heard. Record perused. 
+10. 
+Adjudication is confined to ascertainment and determination of 
+scope and extent of jurisdiction of Mohtasib and to assess whether any 
+irregularity or excess was committed, while deciding complaints. For 
+sake of clarity, it is observed that facts involved in each case; nature 
+and extent of breach of contractual obligations and duty to exercise 
+reasonable care; issue of contributory or competitive negligence on 
+the part of customers and effect thereof are alien to the scope of this 
+judgment, however, references made thereto, in the course of 
+adjudication, are for the purposes of deciding petitions and any such 
+observation / references shall not prejudice individual grievance(s) 
+raised and / or defence pleaded. 
+Indispensability of Institution of Banking Mohtasib [Ombudsman]  
+11. 
+Institution / office of Ombudsman, first surfaced in 1809 in 
+Sweden and thereafter continued to exist in one form or other, is 
+manifestation of fulfillment of obligation of the State, which is to 
+ensure provisioning of inexpensive and expeditious justice – Article 
+W.P. No.983/2025 
+ 
+10
+37(d) of Constitution of the Islamic Republic of Pakistan, 1973. In 
+context of present case, purpose of office of Banking Mohtasib is to 
+enable cost-free mechanism / forum for citizens for redressal of 
+grievances without resorting to courts – an alternative to judicial 
+remedies –, to protect customers from the consequences / effects of 
+maladministration, to act as quasi-judicial forum to keep oversight 
+over the banks, to check abuse of authority and arbitrary influence / 
+practices of banks, and safeguard rights of the customer(s) by 
+recommending compensation. It is ironic, that though institution of 
+Ombudsman is centuries old still scope and extent of Ombudsman’s 
+jurisdiction is unsettled and often subjected to legal challenges 
+seeking re-determination and re-defining of sphere of jurisdictional 
+limits. Variously, challenges are raised against the institution of 
+Ombudsman on touchstone of directions contained in Article 175 of 
+the Constitution of Pakistan, which challenges failed on the premise 
+that office of Ombudsman is not a court, but a quasi-judicial forum, 
+established by legislative enactment and serves as a vital tool for 
+accountability in diverse governance system.  
+12. 
+Institution of Mohtasib is here to stay, unless legislated 
+otherwise. Judgments quoted and referred interpret the scope and 
+extent of Mohtasib’s jurisdiction and re-defines boundaries thereof, in 
+the context of facts relevant to each case, but none of the judgment 
+had threatened its existence, functioning and effectiveness. Endeavour 
+to settle the scope and extent of jurisdiction is decades old struggle, 
+which is perpetual and will continue to be litigated. This judgment 
+W.P. No.983/2025 
+ 
+11
+intends to reiterate the significance of the institution of Mohtasib and 
+to amplify contours of jurisdictional sphere, in the context of subject 
+matter complaints, involving issue of unauthorized EFTs. Powers, 
+functions and jurisdictional limits of Mohtasib are provided in sub-
+section (3) of Section 82A and sub-sections (4) and (5) of section 82B 
+of the Ordinance, 1962 – interplay and working of these provisions 
+were explained in the case of Soneri Bank Limited through 
+Constituted Attorneys/Authorized Officers and another (2013 CLD 
+1756). 
+Provisions 
+are 
+reproduced 
+hereunder 
+for 
+ease 
+of 
+understanding:- 
+82A. Appointment of Mohtasib.—There shall be a Banking 
+Mohtasib who shall be appointed by the President in consultation 
+with the Governor of the State Bank of Pakistan.  
+(2) 
+……………….. 
+(3) 
+The jurisdiction of the Banking Mohtasib in relation to 
+banking transactions shall be to – 
+(a) 
+enquire into complaints of banking malpractices; 
+(b) 
+perverse, arbitrary or discriminatory actions; 
+(c) 
+violations of banking laws, rules, regulations or 
+guidelines; 
+(d) 
+inordinate delays or inefficiency; and  
+(e) 
+corruption, 
+nepotism 
+or 
+other 
+forms 
+of 
+maladministration. 
+82B. Terms 
+and 
+conditions 
+of 
+the 
+Banking 
+Mohtasib.- 
+(1) ………… 
+(4) 
+The Banking Mohtasib shall have the power and 
+responsibility -- 
+(a) 
+to entertain complaints from customers, borrowers, 
+banks or from any concerned body or organization; 
+(b) 
+to facilitate the amicable resolution of complaints after 
+giving hearings to the complainant and the concerned 
+bank; 
+W.P. No.983/2025 
+ 
+12
+(c) 
+to receive evidence on affidavit; 
+(d) 
+to issue commission for the examination of witnesses; 
+and  
+(e) 
+in the event that complaints cannot be resolved by 
+consent, to give findings which shall be acted upon in 
+the manner set out herein. 
+(5) 
+The Banking Mohtasib shall exercise his powers and 
+authority in the following manner:- 
+(a) 
+In relation to all banks operating in Pakistan. The Banking 
+Mohtasib shall be authorised to entertain complaints of the 
+nature set out herein below: 
+(i) 
+failure to act in accordance with banking laws and 
+regulations including policy directives or guidelines 
+issued by the State Bank from time to time. 
+ 
+  
+Provided that if there is a dispute as to the 
+proper interpretation of any regulations, directions or 
+guidelines, the same shall be referred to the State Bank 
+for clarification. 
+(ii) 
+delays or fraud in relation to the payment or collection 
+of cheques, drafts or other banking instruments or the 
+transfer of funds; 
+(iii) 
+fraudulent or unauthorized withdrawals or debit 
+entries in accounts; 
+(iv) 
+complaints from exporters or importers relating to 
+banking services and obligations including letter of 
+credits; 
+(v) 
+complaints from holders of foreign currency accounts, 
+whether maintained by residents or non-residents; 
+(vi) 
+complaints relating to remittances to or from abroad; 
+(vii) 
+complaints relating to mark-up or interest rates based 
+on the ground of a violation of an agreement or of 
+State Bank directives; and  
+(viii) complaints relating to the payment of utility bills. 
+(b) 
+In relation to banks in the public sector.—The Banking 
+Mohtasib shall be authorized to entertain complaints against such 
+banks on the following additional grounds as well -  
+(i) 
+corrupt or malafide practices by bank officers;  
+(ii) 
+gross dereliction of duty in dealing with customers: 
+and 
+(iii) 
+inordinate delays in taking decisions; and  
+W.P. No.983/2025 
+ 
+13
+(c) 
+The Banking Mohtasib shall not entertain any compliant or 
+application which has already been disposed of by the Staten Bank, 
+or any court in Pakistan.  
+[Emphasis supplied] 
+13. 
+In view of noted relevant provisions of law, powers and 
+functions of Mohtasib were provided, extent whereof essentially 
+determines the scope of jurisdictional limits. Law entitles and 
+empowers Mohtasib to adjudicate upon subject-matter complaints, 
+wherein complainants alleged incidences of banking malpractices, 
+violations of banking laws, rules, regulations and guidelines, instances 
+of maladministration, fraud in relation to transfer of funds and 
+complain against fraudulent or unauthorized withdrawals or debit 
+entries in the accounts. Hence, assumption of jurisdiction is lawful 
+and is in accord with the mandate of Ordinance, 1962. Bone of 
+contention is whether the jurisdiction exercised commensurate with 
+defined limits or if exceeds the constraints prescribed. Dispute is 
+always regarding the extent of exercise of jurisdiction. Before the 
+scope and extent of jurisdiction is analyzed in the context of present 
+case, it is imperative to address misconception regarding judgment in 
+the case of United Bank Limited V. Federation of Pakistan and others 
+(2018 CLD 587). It is alleged that decision in the case of United Bank 
+Limited (supra) had divested Mohtasib of its jurisdiction, by reducing 
+scope / ambit of jurisdiction to cases where banks admit claim(s) of 
+the complainants – since restraint has been placed on considering 
+disputed questions of fact, hence, it is conceived that every disputed 
+fact is excluded from the jurisdictional sphere. No such restraint is 
+W.P. No.983/2025 
+ 
+14
+construable. This erroneous view manifests inadequate understanding 
+of paragraph 39 of the judgment, which reads as:- 
+“In the circumstances, this writ petition and the connected writ 
+petitions are allowed and sections 10, 11, 12 and 15 of FIORA are 
+declared to be ultra vires the Constitution. It is furthermore declared 
+that the Banking Mohtasib cannot give any binding decisions on the 
+complaints brought before it involving disputed questions of fact by 
+resorting to the provisions contained in section 82B and 82E of the 
+Ordinance. Orders dated 08.10.2013 and 30.09.2015 passed by the 
+Banking Mohtasib and President of Pakistan are accordingly set 
+aside”.  
+[Emphasis supplied] 
+14. 
+I am afraid that text and context of the judgment is misread. 
+Above-referred decision has neither curtailed nor blocked remedy of 
+approaching Mohtasib nor any such construction could be attributed. 
+Evidently, sections 82B and 82E of the Ordinance 1962 were not 
+declared ultra vires – though some provisions of Act 2013 were 
+declared ultra vires. Hence, sections 82B and 82E of the Ordinance 
+1962 are intra vires. Judgment had not placed any judicial clog / 
+encumbrance on the powers, functions and jurisdiction of Mohtasib, 
+except observing that no binding decisions to be made with respect to 
+disputed questions of facts. Conventionally, Ombudsman does not 
+decide intricate and complex questions of law and facts; Ombudsman 
+does not interfere in matters which are sub-judice in court(s) of law; 
+Ombudsman does not conduct regular trials, still empowered to call 
+for affidavits and appoint commission for recording of evidence. 
+Jurisdiction conferred is in the nature of quasi-judicial jurisdiction, 
+where Mohtasib is entitled to receive evidence on affidavits, without 
+the necessity of strictly following evidentiary principles. One must not 
+W.P. No.983/2025 
+ 
+15
+overlook, evidently the significant role of the Mohtasib, which is to 
+act as mediator for the purposes of resolving the disputes amicably, 
+which makes application and adoption of evidentiary principles 
+inapplicable for such mediation proceedings. Qanun-e-Shahadat Order 
+1984 is not applicable to arbitration proceedings, which leads to 
+inference that meditators are not bound by the rigours of Qanun-e-
+Shahadat Order 1984 – and so is the Mohtasib. Statute per se supports 
+adjudication of questions of fact, to an extent and extent is 
+determinable by the Mohtasib.  
+  
+Sub-section (4) of section 82B of the Ordinance 1962 extends 
+certain powers and responsibilities, which empowers Mohtasib to 
+receive evidence on affidavits and issue commissions for recording of 
+evidence – which provides procedural facilitation to enable Mohtasib 
+to enquire into complaints of banking malpractices [jurisdiction 
+available in terms of section 82A(3)(a) of the Ordinance 1962]. It 
+implies that evidence to limited extent, for discharging jurisdictional 
+obligations, can be recorded by the Mohtasib. Hence, construing ratio 
+in the case of United Bank Limited (supra) in a manner that every fact 
+asserted and controverted will give rise to a disputed question of fact, 
+attracting jurisdictional limitation / encumbrance is wrong and 
+manifest erroneous construction thereof. No empirical guideline(s), 
+conventional wisdom, guiding principles, legal presumption, judicial 
+precedent, 
+established 
+doctrine, 
+standard 
+interpretation 
+and 
+interpretative tool is available for determining that what constitutes ‘a 
+disputed question of fact’, scope whereof differs in each case, 
+W.P. No.983/2025 
+ 
+16
+depending upon the facts, circumstances, pleadings, affidavits-in-
+evidence, report regarding examination of witnesses and effect thereof 
+– disputed question of fact for the purposes of determination of 
+jurisdictional limit of the Mohtasib is different from benchmark of 
+determining what constitutes a triable issue in terms of Order XIV of 
+Code of Civil Procedure 1908. I reiterate that every fact asserted and 
+denied by other side will not per se become a disputed question of fact, 
+by applying civil law principles contained in Order XIV, ibid, but 
+such determination should be left for the determination by the 
+Mohtasib – for ascertaining that what is a disputed question of fact 
+and scope thereof; whether is it fair to exercise jurisdiction or avoid 
+exercise thereof; answers to all these questions depends on the facts of 
+each case. In short, learned counsel for banks misread the ratio of 
+judgment in the case of United Bank Limited (supra), which has had 
+no import of disentitling the Mohtasib from exercising powers and 
+performing functions in accordance with the mandate of Ordinance, 
+1962. Scope and extent of jurisdiction of the Mohtasib is aptly and 
+effectively elaborated and explained in the case of Messrs Muslim 
+Commercial Bank Ltd. through Lawful Attorney V. Federation of 
+Pakistan through Director, (Legal-II), President’s Secretariat and 2 
+others (2020 CLD 829). Perusal of sections 82A, 82B and 82E of the 
+Ordinance 1962 suggests that legislature contemplated role of the 
+Mohtasib as a shadow regulator – without prejudicing the role, 
+influence and powers of State Bank of Pakistan.  
+W.P. No.983/2025 
+ 
+17
+  
+Section 82C of the Ordinance 1962 empowers the Mohtasib, 
+where Court refers a reference to Mohtasib for inquiring into matter, 
+where banking company has acted in mala fide manner or in violation 
+of the banking rules and regulations, to pass orders in accordance with 
+the provisions of the Ordinance, 1962. Is this not an anomaly that 
+when court sends a reference to Mohtasib for exercising powers under 
+the provisions of Ordinance 1962, which includes determination of 
+allegation of mala fide – prima-facie a question of fact – Mohtasib 
+may decide that question but not eligible to decide a question of fact 
+when complaint is filed. In view of the above, I hold that judgment in 
+the case of United Bank Limited (supra) does not bar assumption of 
+jurisdiction by Mohtasib – whether exercise thereof is lawful or not, in 
+the context of subject matter petitions, will be decided in latter part of 
+the judgment. 
+ 
+Configuration of the transaction(s): 
+15. 
+It is essential to get to the nub of the transactions to understand 
+the scope and extent of the duties of banks, element of deception / 
+fraud involved, extent of the role / involvement of the customer(s). 
+Understanding of subject transactions may facilitate in ascertaining 
+effect of contributory negligence and its repercussion qua quantum of 
+compensation claimed. Fraud alleged is classified as ‘authorized push 
+payment’ (APP), and to some extent cases attract classification of 
+‘pull payment fraud’ – explained supra.     
+W.P. No.983/2025 
+ 
+18
+16. 
+Operating bank account from one’s smart-phone, with the tip of 
+the finger, is certainly convenient but risky too, if done without 
+adherence to the instructions, consented to at the time of opening of 
+account or agreed upon activation of on-line banking services – 
+through Debit / Credit Cards or banking app. Simplicitor, on-line 
+withdrawal or transfer of funds by the customers, in accordance with 
+the instructions conveyed and followed, constitutes an authorized 
+transaction – whether approval / authorization is accorded upon being 
+induced by deception of fraud, if proved by the one who is victim, is a 
+different scenario. And conversely withdrawal or transfer of funds, 
+without customer’s knowledge or approval is an unauthorized 
+transaction. In latter case banks are required to show that payment 
+instructions were properly conveyed and same are coming from the 
+person duly authorized. Where banks doubt authenticity of the 
+instructions, they may hold an inquiry before acting upon the same. 
+To this extent there is no confusion. Problem arises, where customer 
+claims that instructions passed / conveyed to the bank, either directly 
+by the customer through phone-banking facility or following 
+instructions on banking app, were induced by deception or fraud. And 
+what would be the position where customer had communicated 
+payment instructions through phone-banking facility or passed 
+instructions through banking app, and after transaction was carried 
+through, raised an objection that instructions were induced by 
+deception or fraud. In this scenario whether the bank could be held 
+liable or directed to reimburse the customer(s), who conveyed 
+W.P. No.983/2025 
+ 
+19
+instructions of payment. What would be the obligations of banks in 
+such situation. Whether bank is expected to exercise duty of 
+reasonable care and skills, when it simply acted on the instructions of 
+the customer(s) and had no doubt qua the credibility of instructions. 
+Another question is what if customer(s) is involved in facilitating the 
+transaction. What is the level of involvement of the customer. 
+Whether customer is victim of fraud or collaborator / abettor. Whether 
+customer is entitled for compensation despite contributory negligence.  
+Some of the instances of contributory negligence constitute sharing of 
+sensitive information like PIN’s passwords, access codes, OTP’s, 
+Debit/Credit card(s) number and CNC. In some cases, customers 
+disowned use of debit cards at ATM’s and credit card(s) for shopping. 
+Question requiring consideration by Mohtasib is whether factum of 
+disputed transactions was reported promptly. Likewise, on-line 
+transactions, where sensitive / confidential information is shared and 
+as consequence thereof loss of funds happened – whether act of 
+sharing of information discretely constitutes an act of contributory 
+negligence. These critical issues need determination.  
+Examination of orders on merits: 
+17. 
+Mohtasib ignores and overlooks to consider the effect and 
+consequence 
+of 
+‘contributory 
+negligence’ 
+and 
+‘comparative 
+negligence’. Apparently, Mohtasib shifted absolute responsibility on 
+banks by placing reliance on section 41 of the Act 2007. It is 
+W.P. No.983/2025 
+ 
+20
+appropriate to understand rational and relevance of section 41, read 
+with section 40 of Act 2007, which are reproduced hereunder:- 
+“40. Consumer’s Liability.--- A consumer shall be liable for any 
+unauthorized Electronic Fund Transfer involving the Account of 
+such consumer only if the card or other means of access utilized for 
+such transfer was an Accepted Card or other means of access and if 
+the issuer of such card, code or other means of access has provided 
+a means whereby the user of such card, code or other means of 
+access can be identified as the person authorized to use it, such as 
+by signature, photograph, or finger print or by electronic or 
+mechanical confirmation. 
+  
+41. 
+Burden of Proof.--- In any action which involves a 
+consumer’s liability for an unauthorized Electronic Fund Transfer, 
+the burden of proof shall be upon the Financial Institution or the 
+Authorized Party to show that the Electronic Fund Transfer was 
+authorized or, if the Electronic Fund Transfer was authorized, then 
+the burden of proof shall be upon the financial Institution or the 
+disclosures required to be made to the consumer under this Act were 
+in fact made in accordance with the provision thereof”. 
+18. 
+Aforesaid provisions of law need appreciation in the context of 
+submissions by learned counsel for banks, who emphasized that 
+factum of sharing of sensitive information was not denied, including 
+the fact of receiving of OTPs on registered mobile phones still no call-
+logs of registered mobile phones were appended with the complaints. 
+There are cases where withdrawals / debits were attributed to misuse 
+of debit / credit cards - whether loss of card was reported and how 
+promptly. This inquiry by the Mohtasib is conspicuous by its absence. 
+Section 41 of the Act 2007 used expression ‘unauthorized Electronic 
+Fund Transfer’ which prima facie raised a query that whether such 
+transactions where instructions were issued by the customer(s) 
+authenticity whereof is though disputed, if at all application of strict 
+rule of burden to prove is to be applied. Whether strict compliance of 
+rule of burden of proof is warranted qua trasactions where customer 
+had issued instruction for payment, but renege afterwards and raise 
+W.P. No.983/2025 
+ 
+21
+plea of inducement by deception or fraud. Whether any evidence 
+could be produced by the bank in such situation to meet the test of 
+burden of proof. I refrain from commenting on all these issues 
+because determination of these issues would enable the Mohtasib to 
+reach conclusion, whether to exercise jurisdiction or avoid 
+adjudication and suggest invocation of remedy under section 50 of the 
+Act, 2007 or other concurrent remedies. Constitutional courts, in 
+exercise of judicial review jurisdiction, would not decide or determine 
+that where the jurisdiction of the Mohtasib starts and where it ends. It 
+has to be determined by the Mohtasib. Problem arises and jurisdiction 
+of constitutional courts are invoked when Mohtasib fails to determine 
+what to decide and what not to decide. In cases before me Mohtasib 
+fails to segregate cases where exercise of jurisdiction is justified and 
+where it was not. I will not undertake that exercise to review each case. 
+I leave it to the good judgment of the Mohtasib to decide matters 
+afresh in exercise of jurisdiction vested in law. These are fit cases for 
+remand, where Mohtasib would decide that which cases are triable by 
+Mohtasib and which are otherwise triable by courts of general 
+jurisdiction. Judgments cited and not discussed, are distinguishable on 
+facts.  
+19. 
+During course of hearing a query is posed that whether remedy 
+of appeal provided in terms of sub-section (4) of section 82E of the 
+Ordinance, 1962 is superseded by allowing remedy of representation 
+with the Office of the President in terms of section 14 of the Act 2013. 
+It appears that section 67 of the Act 2013 extends overriding effect to 
+W.P. No.983/2025 
+ 
+22
+the provisions of Act 2013 and preference in case of any 
+inconsistency with any provision of relevant legislation. Is there exist 
+any conflict in the context of remedy of appeal and representation. 
+Are remedies concurrent or not. Whether remedy of appeal before the 
+regulator is more efficacious, effective and appropriate. All these 
+questions are left open to be considered in any other case since this 
+court is setting aside the orders impugned and remanding the matter to 
+the Mohtasib for decision on the complaints, afresh. 
+20.  
+In view of the aforesaid, these petitions are allowed, decisions 
+by the Banking Mohtasib and orders of dismissal of representations by 
+the president are set-aside. Subject matter complaints shall be deemed 
+pending before the Mohtasib, which shall decide the complaints afresh 
+after affording opportunity to the parties to produce documents, 
+affidavits and evidence, in support of their respective claims. No order 
+as to the costs. 
+ 
+ 
+(ASIM HAFEEZ) 
+     JUDGE 
+ 
+ 
+  
+ 
+Announced in open Court on this 2nd day of May-2025. 
+ 
+ 
+ 
+(ASIM HAFEEZ) 
+     JUDGE 
+  
+ 
+Approved for reporting. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JUDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Imran/* 

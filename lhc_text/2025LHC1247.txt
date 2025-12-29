@@ -1,0 +1,993 @@
+Stereo. H C J D A 38. 
+JUDGMENT SHEET 
+LAHORE HIGH COURT, LAHORE 
+JUDICIAL DEPARTMENT 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+M/s Taiga Apparel (Pvt) Ltd.   vs.   M/s International Fabrication 
+Company   
+ 
+ 
+J U D G M E N T 
+Date of Hearing: 
+25.02.2025 
+Petitioner by: 
+Mr. Abid Minhas, Advocate.  
+Respondent by: 
+Proceeded against ex-parte vide order dated 
+16.12.2024.   
+Amicus Curiae: 
+Syed Shahab Qutab, Advocate.  
+ 
+Anwaar Hussain, J.  This Civil Revision is directed against the 
+judgment dated 27.06.2024, whereby the Appellate Court below 
+allowed the appeal of the respondent, setting aside the order dated 
+28.09.2022 of the Civil Court, and remanded the matter with the 
+directions, inter alia, for appointment of an arbitrator. 
+FACTUAL BACKGROUND: 
+2. 
+The respondent entered into an agreement dated 23.04.2014 
+(“prior agreement”), with the petitioner, for the construction of 
+Ground Floor, Mezzanine Floor, and First Floor of factory of the 
+petitioner in Lahore. Subsequently, another agreement was executed 
+on 08.11.2015 (“subsequent agreement”) for the construction of the 
+Second Floor of the same building. Both the agreements provided for 
+the resolution of the disputes through arbitration. Disputes arose 
+regarding certain withheld payments, compelling the respondent to 
+issue notices calling for the appointment of a sole arbitrator. The 
+respondent invoked the arbitration clause, apparently under both the 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+2
+agreements, through a notice to the petitioner dated 30.12.2017 with 
+the subject „Notice for Appointment of Sole Arbitrator‟. Upon failure 
+of the petitioner to resolve the dispute, the respondent filed an 
+application under Sections 8 & 20 of the Arbitration Act, 1940 (“the 
+Act”) before the Civil Court, Lahore, for appointment of an arbitrator. 
+The respondent claimed an amount of Rs.94,596,538/. The petitioner 
+submitted a reply to the application whereby the assertions of the 
+respondent were denied and dismissal of the application was sought. 
+The petitioner contested the maintainability of the application under 
+Sections 8 & 20 of the Act by filing a miscellaneous application with 
+the averments that the application under Sections 8 & 20 of the Act is 
+premature; that the respondent wrongfully filed a single application 
+under Sections 8 & 20 of the Act for two separate agreements having 
+independent arbitration clauses; and that the arbitration mechanism 
+prescribed in both agreements was not fully exhausted before 
+invoking the jurisdiction of the Civil Court.  In addition, a 
+miscellaneous application was filed on behalf of the petitioner seeking 
+that preliminary issues be framed whereby the maintainability of the 
+application under Sections 8 and 20 of the Act should be decided, 
+inter alia, on the ground that the respondent could not have filed a 
+single application for appointment of an arbitrator, under two separate 
+agreements containing separate arbitration clauses.  
+3. 
+The Civil Court dismissed the respondent‟s application, under 
+Sections 8 & Section 20 of the Act, vide order dated 28.09.2022, 
+holding that arbitration must first proceed as per the agreement(s). In 
+appeal, preferred by the respondent, the Appellate Court below 
+reversed the order dated 28.09.2022, holding that the respondent had 
+exhausted all the remedies and was justified in seeking the 
+intervention of the Civil Court, under the Act, and the matter was 
+remanded to the Civil Court with directions to first appoint an 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+3
+arbitrator and proceed by referring the matter to such Arbitrator, for 
+passing of an award.  
+SUBMISSIONS OF THE PARTIES:  
+4. 
+Learned counsel for the petitioner submits that findings of the 
+Courts below are at variance and after perusal of the record, it is for 
+this Court to adjudge as to which of the two findings has been 
+rendered in accordance with law. Places reliance on case of M/s. 
+Ganapati Technology Services1 to contend that a single application for 
+reference to the arbitration in respect of two separate agreements was 
+not maintainable. Conversely, the respondent has already been 
+proceeded against ex-parte vide order dated 16.12.2024.  
+SUBMISSIONS OF THE AMICUS: 
+5. 
+Syed Shahab Qutab, Advocate Supreme Court was appointed as 
+Amicus Curiae. He submits that where multiple arbitration agreements 
+exist, each containing distinct arbitration clauses, that are neither 
+interconnected nor interdependent, a consolidated application under 
+the Act for a composite reference under all agreements together, is not 
+maintainable. He further contends that a single application under the 
+Act is permissible only if the agreements constitute an „indivisible 
+whole contract‟, and where it is evident from the agreements that the 
+parties intended disputes under multiple agreements to be referred 
+jointly to composite arbitration. Emphasizing the contractual nature of 
+arbitration, he asserts that the parties must adhere to their agreed terms 
+and cannot deviate from the procedure for appointment of the 
+arbitrator(s) prescribed in the arbitration agreements. He concludes 
+that the Courts are duty-bound to closely examine the terms of the 
+arbitration agreement in order to determine whether the matter falls 
+within the scope of Section 8 or Section 9 of the Act, given the 
+                                                          
+1 M/s. Ganapati Technology Services P Ltd v. The State Fisheries Development (AIRONLINE 
+2021 CAL 120) 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+4
+substantial procedural differences between these provisions, as well as 
+the circumstances in which each provision is attracted. In support of 
+his submissions, he relies on the decisions in cases of Orient Power 
+Company2; Sezai Turkes Feyzi Akkaya Construction Company3; and 
+M/s. Duro Felguera, S.A4. 
+6. 
+The following legal questions arise for determination by this 
+Court: 
+i. 
+Whether a single application, under Sections 8 & 
+20 of the Act, was maintainable for disputes under 
+two 
+separate 
+agreements, 
+each 
+having 
+an 
+independent arbitration clause?  
+ 
+ii. 
+Whether the respondent prematurely invoked 
+Section 8, without first exhausting the procedure 
+outlined in the agreements? 
+ 
+iii. 
+Whether the arbitration clauses in both agreements 
+fell within the scope of Section 9, rather than 
+Section 8 of the Act? 
+7. 
+Before answering the first legal question formulated herein 
+above, it will be appropriate to reproduce the relevant arbitration 
+clauses under the agreements, between the parties. Under the prior 
+agreement, the arbitration clause reads as under:  
+“15-Arbitration Clause: 
+In case of any dispute between the owner and contractor 
+the matter will be referred to the sole arbitrator mutually 
+appointed by the Owner and Contractor.  
+In case both parties are not agreeing upon a sole 
+arbitrator then one arbitrator will be appointed by the 
+Owner and the second arbitrator will be appointed by the 
+Contractor to resolve issues. If both arbitrators do not 
+                                                          
+2 Orient Power Company (Private) Limited through Authorized Officer v. Sui Northern Gas 
+Pipelines Limited through Managing Director (2021 SCMR 1728).  
+3 Sezai Turkes Feyzi Akkaya Construction Company, Lahore through Project Director v. M/s. 
+Crescent, Services, Lahore and another (1997 SCMR 1928). 
+4 M/s. Duro Felguera, S.A v. M/s. Gangavaram Port Limited (AIR 2017 SC 5070). 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+5
+arrive at a decision, then both arbitrators will appoint the 
+third umpire. Decision of the sole arbitrator or both 
+arbitrators or by the third umpire shall be considered as a 
+firm and final decision and shall be binding upon both 
+parties (the Owner and the Contractor).” 
+Similarly, under the subsequent agreement, the arbitration 
+clause reads as under: 
+“14-Arbitration: 
+In case of any dispute between the owner and contractor, 
+the matter will be referred to the sole arbitrator mutually 
+appointed by both parties. In case both parties are unable 
+to agree upon a sole arbitrator then one arbitrator will be 
+appointed by the owner and the second arbitrator will be 
+appointed by the contractor to resolve their issues. If both 
+arbitrators do not arrive at a decision, then both 
+arbitrators will appoint a third umpire. Decision of the 
+sole arbitrator or both arbitrators or by the third umpire 
+shall be considered as a firm and final decision and shall 
+be binding upon both parties (the Owner and the 
+Contractor).” 
+8. 
+Having above clauses pertaining to the arbitration as well as 
+relevant provisions of the Act in sight, and adverting to the first legal 
+question, it is imperative to note that the Courts in Pakistan and in 
+Indian jurisdictions have held that the parties do have a network of 
+inter-connected, inter-dependent, or multi-contracts. In case of Orient 
+Power Company supra, the Supreme Court of Pakistan held that it is 
+not unusual for parties to have a network of inter-connected, inter-
+dependent, or multi-contracts, which form an „indivisible whole 
+contract‟ and therefore, when disputes arise, a party who intends to 
+initiate arbitration will potentially wish to do so under several of these 
+inter-connected, inter-dependent or multi-contracts connected inter-se, 
+however, the test is to consider whether such contracts are „indivisible 
+whole contract‟ or whether they are separate and independent from  
+each other. The Supreme Court held as under:  
+“8. A proper approach to construction therefore requires 
+the court to give effect, so far as the language used by the 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+6
+parties will permit, to the commercial purpose of the 
+arbitration clause...” 
+Similarly, in case of Sezai Turkes Feyzi Akkaya Construction 
+Company supra, the Supreme Court of Pakistan held as under: 
+“6. A perusal of the aforesaid clauses would show 
+that the same can only be understood and applied by 
+making reference to the provisions of sub-contract 
+agreement. One of the clauses (clause 5) of the 
+termination agreement says that once the parties 
+fulfill their obligations with reference to items Nos. 
+(2) and (3) of the termination agreement, it will be 
+automatically presumed that both the parties have 
+cleared their accounts with reference to their rights 
+and obligations through the sub-contract agreement of 
+July 10, 1994. It is, therefore, apparent that 
+termination agreement is to be implemented with 
+reference to rights and obligations secured to the 
+parties 
+under 
+sub-contract 
+agreement 
+dated 
+10.7.1994. The later agreement though provides that 
+the parties would no longer continue to work under 
+the sub-contract any further but the mechanism to 
+assess and pay for the work already executed has also 
+been provided. Thus the work which had been 
+executed is to be assessed, evaluated and paid for in 
+terms of provisions of the sub-contract agreement 
+dated 10-7-1994. In these circumstances it is idle to 
+urge that the sub-contract agreement stood novated 
+and substituted with new arrangement altogether in 
+complete supersession of the previous sub-contract 
+agreement. Learned Judge was, therefore, right in 
+concluding that there exists a clear nexus between 
+the two agreements and both have to be read 
+together to find out the intention of the parties. 
+Reference with advantage may be made here to the 
+case of Wade-Grey v. Morrison (1877) 37 L.T. 
+(N.S.) 
+270. 
+In 
+that 
+case 
+there 
+were 
+two 
+contemporaneous 
+agreements, 
+one 
+of 
+which 
+contained, though the other did not, a reference to 
+arbitration, and the learned Judge decided that 
+those two agreements must be treated as together 
+forming one agreement, and that the arbitration 
+clause consequently must be taken as applying to 
+both. 
+(Emphasis supplied) 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+7
+The judgments quoted hereinabove elucidate the principle in 
+cases where there are multiple contracts that are so inter-connected 
+and inter-dependent that they are to be considered as „one indivisible 
+contract‟ and make up one single business transaction, the interplay 
+between them cannot be ignored, including, in the context of referring 
+disputes to the arbitration. At this juncture, it is pertinent to refer 
+“Russell on Arbitration”5, which states that „where a transaction 
+comprises a series of agreements between the same parties, it is 
+important to consider the dispute resolution provisions in each of 
+them. Failure to do so may result in the disputes under different 
+agreements being resolved in different fora, which carries risk of 
+additional expense and inconsistent decisions.‟  
+9. 
+However, it is important to note that arbitration is 
+fundamentally a contractual arrangement and therefore, before the 
+Court embarks on any exercise regarding reference to the arbitration 
+under inter-connected agreements, it must first and foremost have 
+regard to the intention of the parties, as gathered from the plain words 
+of their agreements. The above cited judgments relate primarily to 
+those situations where there are two or more inter-dependent 
+contracts, in which one contract has an arbitration clause, while the 
+other contract does not and the Courts have engaged with the issue of 
+whether (i) the contracts read together form an indivisible whole; or 
+(ii) one contract incorporates by reference the arbitration clause from 
+another contract. Whereas in the present case, there are two separate 
+contracts with independent arbitration clauses. Does the fact that both 
+contracts relate to the same project (albeit with different scope of 
+work and pricing), provide sufficient grounds for those to be treated as 
+„one indivisible whole‟ and for the Court to refer disputes under both 
+contracts, to composite arbitration in the same proceedings? Will this 
+accord with the intention of the parties, who provided for independent 
+                                                          
+5 Twenty Third Edition, Section 2-066 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+8
+arbitration clauses in both agreements (though similarly worded)? 
+This aspect of the matter has been dealt with by the Courts in India. In 
+the case of M/s. Duro Felgueras S.A supra, the Supreme Court of 
+India addressed the issue of whether composite reference to 
+arbitration was warranted where contracts for different packages 
+related to the same project (Bulk Material Handling System and 
+associated works for Gangavaram Port were awarded to same party-
+Duro Felguera, S.A.) but with distinct scope of work and with 
+independent arbitration clauses (in each contract). The Indian 
+Supreme Court held as under:  
+“40. The learned Senior Counsel for GPL relied 
+upon Chloro Controls India Private Ltd. (supra), to 
+contend that where various agreements constitute a 
+composite transaction, court can refer disputes to 
+arbitration if all ancillary agreements are relatable to 
+principal agreement and performance of one agreement is 
+so intrinsically interlinked with other agreements. Even 
+though Chloro Controls has considered the doctrine of 
+"composite reference", "composite performance" etc., 
+ratio of Chloro Controls may not be applicable to the 
+case in hand. In Chloro Controls, the arbitration clause in 
+the principal agreement i.e. clause (30) required that any 
+dispute or difference arising under or in connection with 
+the principal (mother) agreement, which could not be 
+settled by friendly negotiation and agreement between 
+the parties, would be finally settled by arbitration 
+conducted in accordance with Rules of ICC. The words 
+thereon "under and in connection with" in the principal 
+agreement 
+was 
+very 
+wide 
+to 
+make 
+it 
+more 
+comprehensive. In that background, the performance of 
+all other agreements by respective parties including 
+third parties/non-signatories had to fall in line with the 
+principal agreement. In such factual background, it was 
+held that all agreements pertaining to the entire disputes 
+are to be settled by a "composite reference". The case in 
+hand stands entirely on different footing. As discussed 
+earlier, all five different Packages as well as the 
+Corporate Guarantee have separate arbitration clauses 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+9
+and they do not depend on the terms and conditions of 
+the Original Package No.4 TD nor on the MoU, which 
+is intended to have clarity in execution of the work. 
+(Emphasis supplied) 
+Similarly, in the case of Libra Automotives,6 the High Court of Delhi 
+examined the issue of whether overlapping disputes in two contracts, 
+each of which contained separate and distinct arbitration clauses ought 
+to be referred to the composite arbitration by the same tribunal and 
+held as under: 
+“12. Significantly, the arbitration clauses in the 
+agreements" are separate and distinct, and this becomes 
+evident from the following tabulation:- 
+... 
+16. The fact that Petitioner was appointed as a Dealer of 
+Respondent No. 1 and that there was a finance 
+arrangement between the Petitioner and Respondent No. 
+1 and also with Respondent No. 2, for carrying out the 
+business of dealership, no doubt discloses that the 
+agreements were interlinked and interconnected. Thus, 
+the disputes arising under the Agreements could possibly 
+include the interconnected contractual violations, claims 
+relating to encashment of the Bank Guarantee and the 
+termination of the Dealership Agreement. However, just 
+because there is an element of overlapping disputes 
+between the parties on account of the fact that the 
+agreements are interconnected, cannot be the sole 
+ground for the Court to direct the parties to go for a 
+composite arbitration. In the present scenario this is 
+impermissible. The commercial transaction between the 
+parties have two limbs, a) Dealership Arrangement b) 
+Financing Arrangement, and pertinently for this reason, 
+the Agreements between the parties contain separate and 
+distinct arbitration clauses. The dealership Agreement 
+dated 1st January, 2018, which is the umbrella agreement 
+                                                          
+6  Libra Automotives Private Limited vs BMW India Private Limited & Anr. [2019 (176) DRJ 
+976]. 
+ 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+10
+for the dealership relationship between the parties 
+provides for arbitration administered by the Singapore 
+International Arbitration Centre (SIAC). The said 
+dealership agreement, contract was entered into between 
+Petitioner and Respondent No.1. In contrast, there is no 
+arbitration agreement under the Floor Plan Financing 
+Agreement, which is the principal agreement for the 
+financing scheme between the parties. The said 
+agreement was entered into between Petitioner and 
+Respondent No. 2. 
+17. 
+Furthermore, 
+in 
+the 
+Dealership 
+Agreement, 
+Respondent No. 2 is not a party and likewise Respondent 
+No. 1 is not a party to the Financing Agreements. The 
+Arbitration Clauses are only contained in Hypothecation 
+Deeds and Spare part financing agreements. These 
+clauses also provide for a different mechanism for the 
+constitution of the Arbitral Tribunal; The Hypothecation 
+Deed dated 20th June 2016, provides for the Arbitral 
+Tribunal consisting of three Arbitrators. Under the 
+Hypothecation Deed dated 11th July 2016, the parties 
+have agreed for a sole Arbitrator. The same is the 
+situation under the Hypothecation Deed dated 21st June 
+2016. 
+18. In this view of the matter, directing the parties to go 
+for a composite arbitration under a sole Arbitrator 
+would amount to rewriting the terms of the dealership 
+agreement agreed between the parties.” 
+ 
+ 
+ 
+ 
+(Emphasis Supplied) 
+It is imperative to note that in an earlier decision in the 
+Olympus Superstructures,7 the Supreme Court of India addressed a 
+situation where three main agreements for sale of flats were entered 
+into while three separate agreements for interior design were also 
+entered into, each with separate arbitration clauses. The question was 
+whether in respect of items that overlapped in the two agreements, 
+arbitration under the main contract would also cover disputes under 
+the interior design agreements. In the said case, the Indian Supreme 
+Court took the view that the general arbitration clause in the main 
+                                                          
+7 Olympus Superstructures Pvt. Ltd. vs Meena Vijay Khetan & Ors. (AIR 1999 SUPREME 
+COURT 2102). 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+11
+agreement was broad enough to cover disputes under the interior 
+design agreement. The Olympus Superstructure case referred above, 
+was distinguished by the Supreme Court of India in a more recent 
+decision in the DLF Home Developers8 case where the Court 
+emphasized that where the arbitration clause in any one of the two 
+related agreements is neither broader or wider than the arbitration 
+clause in the other agreement, then Court must give effect to both 
+arbitration clauses separately. The reliance placed by learned counsel 
+for the petitioner on case of M/s. Ganapati Technology Services supra 
+is also apt. 
+10. 
+From the above analysis, what can be inferred is that one stream 
+of jurisprudence evolved relates to issues where more than one 
+agreement is executed and one thereof contains the arbitration clause 
+whereas the others do not. In other words, there can be multiple 
+agreements that are apparently inter-connected because they relate to 
+the same transaction or project, and the question is whether disputes 
+under those multiple contracts ought to be referred to composite 
+arbitration pursuant to the arbitration clause in any one agreement. In 
+such cases, Courts will first and foremost examine the text of the 
+contracts and the arbitration clauses in those agreements to assess 
+whether it was the intention of the parties that the disputes under those 
+multiple agreements should be resolved through composite arbitration. 
+Where, for example, there is a main agreement along with an ancillary 
+agreement and the arbitration clause in the main agreement provides 
+that the disputes connected with that main agreement will be referred 
+to arbitration in accordance with its arbitration clause, then, in such an 
+event, where the disputes, though arising partially under the ancillary 
+agreement are integrally connected with the main agreement, Courts 
+have taken the view (per decision in Olympus Superstructures supra), 
+                                                          
+8 DLF Home Developers Limited vs Rajapura Homes Private Limited & Anr. (AIRONLINE 2021 
+SC 759). 
+ 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+12
+that the disputes under the ancillary agreement can be referred to 
+arbitration pursuant to the arbitration clause in the main agreement. A 
+somewhat similar view was taken by the Supreme Court of Pakistan 
+in the case of Sezai Turkes Feyzi Akkaya Construction Company 
+supra in which it has been held that where an agreement executed 
+later in time was dependent on and inter-connected with the terms of 
+an earlier agreement then even though the later agreement did not 
+contain an arbitration clause, the disputes arising under it can be 
+referred to arbitration under the arbitration clause in the earlier main 
+agreement. In this view of the matter, this Court is of the opinion that 
+a single application, can be filed for disputes under two separate 
+agreements, provided the same are interdependent and constitute 
+„indivisible whole contract‟ and single arbitrator can be appointed. 
+11. 
+However, the other stream relates to such situations where the 
+underlying subject matter/project is the same relating to which more 
+than one agreement is executed, and all of them contain arbitration 
+clause entailing the question of composite reference. In the present 
+case, there is no apparent hierarchy to the two agreements in question. 
+In-fact, in the subsequent agreement, there is no reference to the prior 
+agreement. Clause 13 of the subsequent agreement that lists the 
+contract documentation also does not make reference to the prior 
+agreement. There are also other differences between the two 
+agreements. While the prior agreement does not refer to a contract 
+area, the subsequent agreement specifically refers to the contract area 
+as being the Second Floor estimated at 75,000 sq. ft. Moreover, the 
+contract value of both the agreements is different. The owner and 
+contractor‟s scope of supply in both the agreements are also different. 
+So is the position with the payment schedule in both the agreements. 
+It is noted that the claims stated in paragraph 9 of the application 
+under Sections 8 & 20 of the Act, clearly relate to the prior agreement 
+since the same pre-date the subsequent agreement. The claims stated 
+in application, while not identified in each case, have been separately 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+13
+identified in several instances as being related to the First Floor, the 
+Mezzanine Floor or the Second Floor although the subsequent 
+agreement only related to the Second Floor. There is no apparent 
+overlap in the claims, between the two agreements. It is imperative to 
+observe that just because there is an element of overlapping in 
+disputes between the parties, it cannot be the sole ground for the Court 
+to direct the parties to go for a composite arbitration where there are 
+two agreements with two separate arbitration clauses.9  
+12. 
+The facts of the present case are more relatable to the case of 
+Duro Felguera, S.A. supra, wherein the Indian Supreme Court held 
+that where there are separate agreements (though related to the same 
+project) with independent arbitration clauses and where one 
+agreement is not dependent on the other, then the disputes under those 
+various agreements cannot be referred to one arbitral tribunal, but 
+separate arbitral tribunals ought to be constituted for disputes under 
+each agreement. This approach is also reasonable since it means that 
+the Courts will first and foremost give effect to the intent of the 
+parties, as neither party can be allowed to circumvent their agreement, 
+nor can the Court re-write the agreement between the parties.  
+13. 
+However, in the present case, despite having certain similarities 
+with the facts of Duro Felguera, S.A. supra, there is a distinguishable 
+feature as well. The nature of projects in the sub-agreements in case of 
+Duro Felguera, S.A. supra was different whereas the nature of the 
+project i.e., construction in the present case is similar to one another 
+and also with respect to the same building and the dispute pertains to 
+the payments withheld. At this stage, it is pertinent to note that the 
+Court in determining suchlike situation should look into the nature of 
+ 
+                                                          
+9 See Libra Automotives, supra 6.  
+ 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+14
+the dispute requiring arbitration in order to strike a balance that two 
+distinct contractual arrangements reached by the parties are not 
+disturbed by interpolation and/or substitution by the Court with its 
+own arrangement as well as the necessity to rule out the conflicting 
+awards. In the present case, for instance, the issue of certain payments 
+withheld has triggered the filing of application under Sections 8 & 20 
+of the Act for reference to the arbitration. The separate references run 
+the risk as to one set of payments as adjustment and/or withholding of 
+payment in the other. The matter may involve determination of 
+payments/adjustments under one agreement against payments 
+withheld under the other agreement. While the Civil Court did not 
+appreciate as to whether both the agreements are inter connected or 
+interdependent and dismissed the application under Sections 8 & 20 of 
+the Act, the Appellate Court below also erred by not examining and 
+appreciating as to whether the application under Sections 8 & 20 was 
+filed by first exhausting the procedure outlined in the agreements. 
+14. 
+The above-mentioned discussion takes this Court to second 
+legal question related to scope of the arbitration clause in both the 
+agreements, which is almost identical in both the agreements and 
+provides for a two-step procedure for appointment of the arbitrators. 
+In the first step, the parties are to appoint a sole arbitrator by mutual 
+consent, however, if parties are not agreeing upon a sole arbitrator, 
+then in the second step, each party would appoint one arbitrator, and if 
+the two arbitrators so appointed are not able to agree on a decision, 
+they will appoint an umpire and refer the matter for decision to the 
+umpire. Record depicts that the respondent complied with only the 
+first step of the appointment procedure provided in the arbitration 
+clause i.e., the attempt for appointment of a sole arbitrator, however 
+the respondent, thereafter did not proceed with the second step of the 
+appointment procedure wherein it was to appoint its own arbitrator 
+(instead of proposing a sole arbitrator). This is evident from the facts, 
+as stated in the respondent‟s application under Sections 8 & 20 of the 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+15
+Act, where the respondent states that it sent two notices to the 
+petitioner for the appointment of a sole arbitrator. Once it was clear 
+that the parties had failed to agree on the appointment of a sole 
+arbitrator and the petitioner did not respond to the respondent‟s 
+proposal, the respondent should have proceeded to the second step 
+provided in the arbitration clause and ought to have appointed its own 
+arbitrator. The respondent, instead, approached the Civil Court 
+without fully complying with the inbuilt procedure for the arbitrator(s) 
+appointment provided in the arbitration clause of each agreement. As 
+mentioned above, arbitration is fundamentally a contractual 
+arrangement and the parties must be held to their bargain. They cannot 
+be allowed to circumvent the procedure for arbitration provided in the 
+arbitration clause. The procedure for appointment of the arbitrator, as 
+provided in the agreements, must be given effect, and the Appellate 
+Court below ought not to have proceeded to direct the Civil Court for 
+the appointment of an arbitrator without the parties first exhausting 
+the mechanism agreed in the arbitration clause(s). In this respect, the 
+following passages from the case of Libra Automotives supra are 
+referred: 
+“18. In this view of the matter, directing the parties to go 
+for a composite arbitration under a sole Arbitrator would 
+amount to rewriting the terms of the dealership 
+agreement agreed between the parties. It can also not be 
+ignored that the invocation of the arbitration agreement is 
+also misconceived. The invocation notice is unspecific 
+and not as per procedure prescribed under the arbitration 
+agreement. Petitioner has not proceeded as per the agreed 
+procedure under any of the Arbitration Agreements. The 
+Petitioner has rather called upon the Respondents to 
+agree to an arbitration mechanism contrary to the agreed 
+procedure prescribed under the Agreement. The 
+invocation is thus contrary to the contract and wholly 
+misconceived. 
+“22. The Court while exercising its power under Section 
+11 of the Act, cannot recast the terms of the Contract and 
+direct the parties to go for a composite arbitration 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+16
+contrary to the procedure prescribed under the arbitration 
+clause provided in distinct arbitration agreements...... 
+…Where an application under section 11(6) of 
+the Act is filed, the procedure for appointment of 
+an arbitrator provided in the agreement, be given 
+effect to and the court ought not to appoint an 
+independent arbitrator without resort to the 
+inbuilt mechanism agreed to between the parties.  
+Parties were conscious of the terms of the 
+agreement and they willingly and consciously 
+agreed for the arbitral procedure envisaged under 
+the agreement without any reservation.” 
+                                      (Emphasis supplied) 
+Therefore, this Court is of the opinion that the respondent approached 
+the Civil Court, at a premature stage without exhausting the procedure 
+for appointment of the arbitrator(s) provided in the arbitration clauses 
+in both the agreements. On this account, the respondent‟s application 
+under Sections 8 & 20 of the Act, was not maintainable. 
+15. 
+Before answering the third legal question as to inter play of 
+Sections 8 and 9 of the Act and their applicability in present case, it is 
+imperative to reproduce both provisions of law. Section 8 of the Act 
+reads as under: 
+“8. 
+Power of Court to appoint arbitrator or 
+umpire:-(1) In any of the following cases:- 
+(a) 
+where an arbitration agreement provides that the 
+reference shall be to one or more arbitrators to be 
+appointed by consent of the parties, and all the parties do 
+not, after differences have arisen, concur in the 
+appointment or appointments; or 
+(b) 
+If any appointed arbitrator or umpire neglects or 
+refuses to act, or is incapable of acting, or dies, and the 
+arbitration agreement does not show that it was intended 
+that the vacancy should not be supplied, and the parties 
+or the arbitrators, as the case may be, do not supply the 
+vacancy; or 
+(c) 
+where the parties or the arbitrators are required to 
+appoint an umpire and do not appoint him; 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+17
+Any party may serve the other parties or the arbitrators, 
+as the case may be with a written notice to concur in the 
+appointment or appointments or in supplying the 
+vacancy. 
+(2) 
+If the appointment is not made within fifteen clear 
+days after the service of the said notice, the Court may, 
+on the application of the party who gave the notice and 
+after giving the other parties an opportunity of being 
+heard, appoint an arbitrator or arbitrators or umpire, as 
+the case may be, who shall have like power to act in the 
+reference and to make an award as if he or they had been 
+appointed by consent of all parties.” 
+Whereas Section 9 of the Act reads as under: 
+“9. 
+Power to party to appoint new arbitrator or, in 
+certain cases, a sole arbitrator:- 
+ 
+Where an arbitration agreement provides that a 
+reference shall be to two arbitrators, one to be appointed 
+by each party, then, unless a different intention is 
+expressed in the agreement:- 
+(a) 
+If either of the appointed arbitrators neglects or 
+refuses to act, or is incapable of acting or dies, 
+the party who appointed him may appoint a 
+new arbitrator in his place; 
+(b) 
+If one party fails to appoint an arbitrator, either 
+originally or by way of substitution as 
+aforesaid, for fifteen clear days after the 
+service by the other party of a notice in writing 
+to make the appointment, such other party 
+having appointed his arbitrator before giving 
+the notice, the party who has appointed an 
+arbitrator may appoint that arbitrator to act as 
+sole arbitrator in the reference, and his award 
+shall be binding on both parties as if he had 
+been appointed by consent: 
+Provided that the Court may set aside any 
+appointment as sole arbitrator made under 
+clause (b) and either, on sufficient cause being 
+shown, allow further time to the defaulting 
+party to appoint an arbitrator or pass such other 
+order as it thinks fit. 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+18
+Explanation.—The fact that an arbitrator or 
+umpire, after a request by either party to enter 
+on and proceed with the reference, does not 
+within one month comply with the request may 
+constitute a neglect or refusal to act within the 
+meaning of section 8 and this section.” 
+Section 8(1) of the Act empowers a party to serve a notice on 
+another party to concur in the appointment of an arbitrator etc., where 
+the arbitration agreement provides that the reference shall be to one or 
+more arbitrators to be appointed by consent of the parties, and the 
+parties do not, after differences have arisen, concur in the appointment 
+or appointments. Section 8(2), inter alia, provides that if the 
+appointment is not made within fifteen clear days after the service of 
+the said notice, the Court may, on the application of the party which 
+gave the notice and after giving the other parties an opportunity of 
+being heard, appoint an arbitrator or arbitrators or umpire, as the case 
+may be. While the arbitration clauses, in both agreements, do provide 
+for the appointment of a sole arbitrator by consent of the parties, that 
+is not the exclusive mode of appointment, since the arbitration clauses 
+provide for the next step, in case the parties fail to agree on a sole 
+arbitrator. Therefore, when read in its entirety, the arbitration clauses 
+eventually provide for a reference to two arbitrators, one to be 
+appointed by each party. This situation takes the present case, out of 
+the remit of Section 8 of the Act and brings it within the purview of 
+Section 9 of the Act. Section 9 of the Act applies in a situation where 
+an arbitration agreement provides that a reference shall be to two 
+arbitrators, one to be appointed by each party. Section 9(b) provides 
+that, in such a case, if one party fails to appoint an arbitrator, either 
+originally or by way of substitution, for fifteen clear days after the 
+service by the other party of a notice in writing to make the 
+appointment, such other party having appointed his arbitrator before 
+giving the notice, the party who has appointed an arbitrator may 
+appoint that arbitrator to act as sole arbitrator in the reference, and his 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+19
+award shall be binding on both parties as if he had been appointed by 
+consent. 
+16. 
+A situation such as the one that arises in the present case was 
+addressed by the Calcutta High Court in the case of Subal Chandra10. 
+In that case the partnership deed provided for reference of disputes to 
+a single arbitrator in case the parties agree upon one, otherwise to two 
+arbitrators one to be appointed by each party to the dispute. It was 
+held that where an arbitrator appointed by one party is made sole 
+arbitrator under Section 9, the other party having refused to act, the 
+procedure to be followed is not that which is laid down in Section 8(1) 
+but the procedure in Section 9 will be followed, and the party which 
+appointed the arbitrator who became the sole arbitrator may appoint a 
+fresh arbitrator after giving notice to the other side. Furthermore, it 
+was held in the aforesaid judgment as follows: 
+“6. …This arbitration agreement cannot be construed as 
+an agreement to refer the disputes to a single arbitrator 
+simpliciter so as to attract the operation of section 8 of 
+the Act. Reference to a single arbitrator is conditional on 
+all the parties agreeing to do so and there is an alternative 
+mode of appointment of two arbitrators. To construe this 
+arbitration agreement as an unconditional agreement to 
+refer to one arbitrator is to cancel the alternative 
+provision altogether and will amount to making a new 
+contract for the parties, which is obviously not 
+permissible.” 
+ 
+Similarly, in the present case the arbitration clauses in both 
+agreements cannot be construed as an unconditional agreement to 
+refer the disputes to a sole arbitrator so as to attract section 8(1) of the 
+Act. To construe it as such would mean that the alternative mode of 
+appointing arbitrators (where each party appoints one arbitrator) 
+provided in the arbitration clauses would be rendered redundant. The 
+above noted case from the Calcutta High Court was also relied by the 
+                                                          
+10 Subal Chandra Bhur v. MD. Ibrahim and Anr (AIR 1943 Calcutta 484). 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+20
+Islamabad High Court11 that clearly elucidates the distinction between 
+Sections 8 and 9 of the Act, in the following terms: 
+“14. The arbitration clause in the Agreements shows 
+that the parties had agreed for their disputes and 
+differences to be resolved through arbitration by two 
+arbitrators "to be appointed one each by the parties." 
+Where a party to an arbitration agreement, which 
+provides for arbitration by a two-member arbitral tribunal 
+one to be appointed by each party, wants to initiate 
+arbitration proceedings without the intervention of the 
+Court, it must, after appointing its arbitrator, serve a 
+written notice on the other party as to such appointment 
+and require the other party to appoint its arbitrator. If the 
+other party does not appoint its arbitrator within fifteen 
+clear days of the service of such notice, the party which 
+had appointed its arbitrator acquires the right to appoint 
+its arbitrator as the sole arbitrator by invoking the 
+provisions of Section 9(b) of the 1940 Act. The sole 
+arbitrator appointed through this process is treated as 
+having been appointed with the consent of the parties. 
+… 
+16. 
+Section 9 is attracted only when the arbitration 
+agreement requires the disputes between the parties to be 
+referred to two arbitrators, one to be appointed by each 
+party. The essential condition for the exercise of the 
+power by a party to appoint a sole arbitrator under 
+section 9(b) is that the other party fails to appoint an 
+arbitrator for 15 days after service of notice in writing to 
+make an appointment. 
+Before that time a sole arbitrator cannot be appointed and 
+if appointed the arbitrator has no jurisdiction… 
+… 
+35. 
+In the case at hand, neither party had submitted an 
+application to the Court for the appointment of 
+                                                          
+11 Better Engineered Solutions (Pvt.) Ltd. v. Balochistan Development Authority, Quetta through 
+Chairman and another (2023 PLD Islamabad 105). 
+ 
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+21
+arbitrator(s). The parties could not have resorted to 
+Section 8 of the 1940 Act for the appointment of 
+arbitrator(s) 
+since 
+the 
+arbitration 
+clause 
+in 
+the 
+Agreements did not provide for the arbitral tribunal to be 
+appointed with the consent of the parties. Where 
+arbitrators are appointed by the parties or a sole arbitrator 
+is appointed pursuant to Section 9(b), and thereafter 
+either of the appointed arbitrators or the sole arbitrator 
+neglect or refuse to act, or are incapable of acting, or die, 
+then their substitutes can be appointed by the respective 
+parties that had appointed them. The parties exercise this 
+power vested in them by Section 9(a) of the 1940 Act, 
+which provides the mode for filling a vacancy in the 
+appointment of arbitrators and comes into play only if 
+either of the appointed arbitrators neglect or refuse to act 
+or are incapable of acting or die.” 
+ 
+Since both the agreements required two arbitrators, followed by 
+an umpire if needed, the correct legal provision to invoke was Section 
+9, and not Section 8 of the Act. The Appellate Court below directed 
+the Civil Court to appoint an arbitrator without first determining 
+whether two steps procedures envisaged under the arbitration clauses 
+agreed between the parties were exhausted and it also failed to address 
+the issue of whether the application under Sections 8 & 20 was 
+maintainable for two separate agreements, which is erroneous, making 
+its decision legally unsustainable.  
+17. 
+This Court is of the opinion that the respondent‟s application 
+under Sections 8 & 20 was not maintainable as it covered two separate 
+agreements and the arbitration mechanism, in both the agreements, 
+was not exhausted, by the respondent, rendering the application 
+premature. Moreover, the disputes fall under Section 9, rather than 
+Section 8 of the Act. 
+18. 
+In view of the above, this Civil Revision is allowed, and the 
+impugned judgment dated 27.06.2024 is set aside. However, it is 
+observed that the parties are at liberty to invoke the arbitration clauses 
+in letter in spirit.  
+ 
+ 
+ 
+Civil Revision No.60145/2024  
+ 
+ 
+22
+19. 
+Before parting with, valuable assistance provided by learned 
+amicus is acknowledged with thanks.  
+ 
+ 
+ 
+(ANWAAR HUSSAIN) 
+                Judge 
+ 
+ 
+Approved for reporting  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Judge  
+Akram 
+ 
+ 
